@@ -98,12 +98,6 @@ Power BI, DAX, Power Query
     └── report.pdf            # Business summary (optional)
 ```
 
-## Screenshots
-
-![Sales](screenshots/sales.png)
-![Customer](screenshots/customer.png)
-![Shipping](screenshots/shipping.png)
-
 ## How to Use
 
 1. Download the dataset from Kaggle (DataCo Smart Supply Chain for Big Data Analysis).
