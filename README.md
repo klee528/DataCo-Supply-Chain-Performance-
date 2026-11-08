@@ -103,7 +103,3 @@ Power BI, DAX, Power Query
 1. Download the dataset from Kaggle (DataCo Smart Supply Chain for Big Data Analysis).
 2. Open `DataCo_Dashboard.pbix` in Power BI Desktop and update the data source path if prompted.
 3. Refresh the model.
-
-## Author
-
-Your Name | [LinkedIn](https://www.linkedin.com/) | [Email](mailto:you@example.com)
